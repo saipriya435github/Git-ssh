@@ -1,0 +1,15 @@
+PUPPET-PROJECT-AIO Bench-Info
+
+1.https://puppet.com/docs/pe/2021.0/api_index.html
+
+2.https://www.crio.do/blog/what-is-an-api/
+
+3.https://www.tutorialspoint.com/puppet/puppet_restful_api.htm
+
+4.https://pypi.org/project/puppet-apis/0.0.1/#files
+
+You-tube
+https://www.youtube.com/watch?v=EWRbVuh8IRc
+
+Git-hub
+1.https://gist.github.com/saipriya435github/45d78707c276995920ee00cabb009c3a
