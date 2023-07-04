@@ -1,0 +1,23 @@
+ Project #1:
+
+	Title 			: 	E-Connect Service manager
+	Environments 		: 	GIT, Jenkins, Maven, Shell, AWS, Linux, Ansible.
+	Designation		: 	Devops Engineer 	
+Description:
+E-Connect Service manager is a central server application handles Parts and Transaction information from a warehouse to E-Commerce Application, which launches a communication medium using secure web-service. Supportive administration with Transaction reports and Graphs are handled using report manager services.
+Roles:
+•	Installing and configuring Git and Jenkins and deployment servers.
+•	Responsible for Maintaining/Administration of GIT Version control tool.
+•	Grant permissions to files, users and groups, and fix login issues on servers. Perform configuration update on servers. 
+•	Automating the Build Processes using CI tools Jenkins.
+•	Worked with Maven to automate the build process.
+•	Creating WAR/EAR files using Maven.
+•	Installed, Configured and Administered Jenkins continuous integration tool.
+•	Integrated GIT into Jenkins to automate the code check-out process. 
+•	Written Ansible playbooks to automate our build/deployment process and do an overall process improvement to any manual processes.
+•	Developed shell scripts for automation of the build and release process.
+•	Used Sonarqube to check the codequality by integrating with jenkins
+•	Used Maven as build tool on Java projects for the development of build artifacts on the source code.
+•	Created master and slave configuration in Jenkins.
+•	Used GIT as source code repositories and integrated with Jenkins.
+•	Used Jenkins for Continuous Integration and deployment into Tomcat application server.  
